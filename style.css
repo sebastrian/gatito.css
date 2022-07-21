@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  color: white;
+}
+span {
+  font-family: sans-serif;
+  font-size: 24px;
+  color: orange;
+}
+p {
+  color: green;
+}
+.gatito {
+  border: 5px solid red;
+}
+img {
+  border: 5px solid red;
+  width: 400px;
+}
+h1 {
+  text-align: center;
+  color: saddlebrown;
+}
+h2 {
+  text-align: center;
+  color: skyblue;
+}
+ul {
+  text-align: right;
+  text-decoration: none;
+  list-style: none;
+}
+.italica {
+  font-style: italic;
+}
